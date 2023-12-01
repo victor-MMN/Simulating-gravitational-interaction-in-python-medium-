@@ -19,6 +19,3 @@ Finally, throughout the codes InteractionNbodies and plotAnimateNbodies, you'll 
 
 Here is an example of the Sun-Earth-Moon system with an exaggerated moon orbit
 
-<p align="center">
-  <img src="SEM_RK4_dt=0.00712890625_N=512000_exaggeratedMoon.gif" alt="Sun-Earth-Moon system with an exaggerated moon orbit GIF">
-</p>
