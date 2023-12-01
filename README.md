@@ -17,6 +17,11 @@ NOTE: In **InteractionNbodies**, the files are named as follows: "SEM_RK4_dt=0.0
 
 Finally, throughout the codes InteractionNbodies and plotAnimateNbodies, you'll find pieces of code that are similar. You need to comment or uncomment them depending on whether you want to create the Sun-Earth-Moon system or a system with random bodies. There are comments "system" and "random bodies" that will guide you in distinguishing between the two.
 
-For completeness, the folder **dataBodies** contains the positions and velocities, while **plotBodies** folder the figures and animations.
+Lastly, the **examples** folder contains figures and animations for reference.
 
-Here is an example of the Sun-Earth-Moon system with an exaggerated moon orbit
+Here is one of the examples available in the **examples** folder: the Sun-Earth-Moon system with an exaggerated moon orbit.
+
+<p align="center">
+  <img src="examples/SEM_RK4_dt=0.00712890625_N=512000_exaggeratedMoon.gif" alt="Sun-Earth-Moon system with an exaggerated moon orbit" width="400" height="400">
+</p>
+
