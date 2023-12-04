@@ -1,7 +1,9 @@
 
 # Simulating gravitational interaction in python (Medium)
 
-This repository have the codes that were expalaind in this medium entry: [link to the Medium entry]. Here you can find 3 codes
+This repository has the codes that were explained in this medium article: [The article is not published yet]
+
+In this repository, you can find 3 codes
 
 1. **InteractionNbodies**
 2. **plotAnimateNbodies**
