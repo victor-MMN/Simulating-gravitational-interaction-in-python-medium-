@@ -258,7 +258,6 @@ for part in range(1, 1 + totalParts) : # The + 1 is because of how the range fun
 
                 # 4 order RK for velocities and positions:
 
-                # r += dt*v
                 # Kiv : Velocities' ks.
                 # Kir : Positions' ks
 
