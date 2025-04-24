@@ -1,7 +1,7 @@
 
 # Simulating gravitational interaction in python (Medium)
 
-This repository has the codes that were explained in this medium article: [The article is not published yet]
+This repository has the codes that were explained in this [medium article](https://medium.com/mcd-unison/simulating-gravitational-interaction-in-python-8c8443ffbcfd).
 
 In this repository, you can find 3 codes
 
